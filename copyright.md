@@ -1,6 +1,6 @@
 # Copyright Notice
 
-© 2026 stephenwolfram. All rights reserved.
+© 2026 Stephenwolfram. All rights reserved.
 
 ---
 
