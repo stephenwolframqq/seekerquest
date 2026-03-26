@@ -1,103 +1,136 @@
 # Terms and Conditions
 
-Effective Date: 2026
 
-By using Seeker Quest, you agree to these Terms.
+Last updated: March 26, 2026
 
----
+1. Acceptance of Terms
 
-## 1. 🧾 Overview
+By accessing or using our application (“App”, “we”, “our”, or “us”), you agree to be bound by these Terms and Conditions.
 
-Seeker Quest is a quest platform that allows users to:
+If you do not agree with these Terms, you must not use the App.
 
-- Complete off-chain and on-chain tasks
-- Participate in reward distribution
-- Interact with in-app advertisements
+2. Eligibility
 
----
+To use the App, you must:
 
-## 2. 👤 User Responsibilities
+Be at least 18 years old (or the legal age in your jurisdiction)
+Have the legal capacity to enter into a binding agreement
+Comply with all applicable laws and regulations
+3. Wallet Connection
 
-You agree that:
+To use certain features, you must connect a compatible blockchain wallet.
 
-- You control your wallet and private keys
-- You are responsible for all actions taken
-- You will not exploit or abuse the system
+By connecting your wallet, you acknowledge that:
 
----
+You control your wallet and private keys
+We do not store or have access to your private keys
+All blockchain transactions are irreversible
 
-## 3. 💰 Rewards
+You are solely responsible for any activity conducted through your wallet.
 
-- Rewards are NOT guaranteed
-- Distribution is determined by the platform
-- The platform may change reward rules at any time
+4. Description of Service
 
----
+The App provides:
 
-## 4. 📢 Advertising
+Daily tasks or activities
+On-chain or off-chain tracking of user actions
+Potential rewards, points, or incentives
 
-- Advertisers may display content in the app
-- The platform does not endorse advertised content
-- Users interact with ads at their own risk
+We reserve the right to modify, suspend, or discontinue any part of the App at any time without notice.
 
----
+5. Rewards and Incentives
+Rewards (if any) are not guaranteed
+We may change reward structures at any time
+Rewards may have additional conditions or eligibility requirements
+We reserve the right to revoke rewards in cases of abuse, fraud, or violation of these Terms
+6. User Conduct
 
-## 5. 🔗 Blockchain
+You agree not to:
 
-- Some quests require on-chain interaction
-- Transactions are irreversible
-- Network fees may apply
+Use bots, scripts, or automation to exploit the App
+Engage in fraudulent or abusive behavior
+Attempt to hack, disrupt, or reverse engineer the App
+Violate any applicable laws or regulations
 
-We are not responsible for:
+We reserve the right to suspend or terminate access for violations.
 
-- Failed transactions
-- Wallet issues
-- Blockchain errors
+7. Blockchain Risks
 
----
+By using the App, you acknowledge:
 
-## 6. 🚫 Prohibited Use
+Blockchain technology involves inherent risks
+Transactions are public and irreversible
+Network congestion or failures may occur
+Smart contracts may contain bugs or vulnerabilities
 
-You may NOT:
+You use the App at your own risk.
 
-- Cheat or exploit quests
-- Use bots or automation
-- Commit fraud or abuse reward systems
+8. No Financial Advice
 
----
+Nothing in the App constitutes:
 
-## 7. 🧠 Intellectual Property
+Financial advice
+Investment advice
+Trading recommendations
 
-All rights to the app remain with the author.
+You are solely responsible for your financial decisions.
 
----
+9. Intellectual Property
 
-## 8. ⚠️ No Financial Guarantee
+All content, trademarks, logos, and software related to the App are owned by or licensed to us.
 
-- This is not an investment platform
-- Rewards have no guaranteed value
+You may not:
 
----
+Copy, modify, distribute, or reproduce any part of the App without permission
+10. Third-Party Services
 
-## 9. ⚠️ Disclaimer
+The App may interact with third-party services such as:
 
-The app is provided "as is".
+Wallet providers
+Blockchain infrastructure
+Analytics platforms
 
----
+We are not responsible for third-party services or their actions.
 
-## 10. ⚖️ Limitation of Liability
+11. Disclaimer of Warranties
 
-We are not liable for:
+The App is provided “as is” and “as available” without warranties of any kind.
 
-- Loss of funds
-- Loss of rewards
-- Indirect damages
+We do not guarantee:
 
----
+Continuous availability
+Error-free operation
+Security or reliability
+12. Limitation of Liability
 
-## 11. 🔄 Changes
+To the maximum extent permitted by law, we are not liable for:
 
-Terms may change at any time.
+Loss of funds
+Loss of data
+Indirect, incidental, or consequential damages
+Damages resulting from blockchain failures or wallet misuse
+13. Indemnification
+
+You agree to indemnify and hold us harmless from any claims, damages, or losses arising from:
+
+Your use of the App
+Your violation of these Terms
+Your violation of any laws or third-party rights
+14. Termination
+
+We may suspend or terminate your access at any time if:
+
+You violate these Terms
+We are required to comply with legal obligations
+15. Changes to Terms
+
+We may update these Terms at any time. Continued use of the App constitutes acceptance of the updated Terms.
+
+16. Governing Law
+
+These Terms shall be governed by and construed in accordance with the laws of:
+
+Philippines
 
 ---
 
